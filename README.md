@@ -1,2 +1,2 @@
 # differential_evolution
-genetic algorithm differential evolution algorithm
+genetic algorithm differential evolution
